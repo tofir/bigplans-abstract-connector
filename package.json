@@ -1,0 +1,39 @@
+{
+  "name": "bigplans-abstract-connector",
+  "version": "0.1.0",
+  "description": "Abstract connector for BigPlans.io",
+  "author": "Assembla Inc.",
+  "license": "MIT",
+
+  "main": "main.js",
+
+  "private": true,
+  "directories": {
+    "test": "spec"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "bigplans",
+    "connector"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Assembla/bigplans-abstract-connector"
+  },
+  "dependencies": {
+    "request": "2.33.0"
+  },
+
+  "devDependencies": {
+    "jshint": "2.4.3",
+    "grunt": "0.4.2",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-jshint": "0.8.0",
+    "jasmine-node": "1.13.1",
+    "grunt-jasmine-node": "0.1.0",
+    "sinon": "1.8.2",
+    "jasmine-sinon": "0.3.1"
+  }
+}
