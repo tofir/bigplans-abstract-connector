@@ -1,6 +1,6 @@
-[![Code Climate](https://codeclimate.com/github/Assembla/bigplans-abstract-connector.png)](https://codeclimate.com/github/Assembla/bigplans-abstract-connector)
-[![Build Status](https://travis-ci.org/Assembla/bigplans-abstract-connector.png?branch=master)](https://travis-ci.org/Assembla/bigplans-abstract-connector)
-![Dependency Status](https://gemnasium.com/Assembla/bigplans-abstract-connector.png)
+[![Code Climate](https://codeclimate.com/github/tofir/bigplans-abstract-connector.png)](https://codeclimate.com/github/tofir/bigplans-abstract-connector)
+[![Build Status](https://travis-ci.org/tofir/bigplans-abstract-connector.png?branch=master)](https://travis-ci.org/tofir/bigplans-abstract-connector)
+[![Dependency Status](https://gemnasium.com/tofir/bigplans-abstract-connector.png)](https://gemnasium.com/tofir/bigplans-abstract-connector)
 
 ### Synopsis
 
