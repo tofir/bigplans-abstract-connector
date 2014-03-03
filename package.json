@@ -23,11 +23,11 @@
     "url": "https://github.com/Assembla/bigplans-abstract-connector"
   },
   "dependencies": {
-    "request": "2.33.0"
+    "request": "2.34.0"
   },
 
   "devDependencies": {
-    "jshint": "2.4.3",
+    "jshint": "2.4.4",
     "grunt": "0.4.2",
     "grunt-cli": "0.1.13",
     "grunt-contrib-jshint": "0.8.0",
